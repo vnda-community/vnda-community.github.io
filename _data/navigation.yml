@@ -1,26 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "About"
+    url: /about/
    
-  - title: "CV"
-    url: /cv/
+  - title: "Blog"
+    url: /blog/
 
-  - title: "Overflow"
-    url: /overflow/
-
-  - title: "Research"
-    url: /research/
-
-  - title: "Miscellaneous"
-    url: /misc/
-
-  - title: "Nuclear charts"
-    url: /charts/
-
-#  - title: "Talks"
-#    url: /talks/    
-
-#  - title: "Teaching"
-#    url: /teaching/    
- 
+  - title: "Events"
+    url: /events/

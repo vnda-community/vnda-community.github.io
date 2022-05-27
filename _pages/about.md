@@ -7,20 +7,51 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  overlay_image: ../images/image_dark-space-black-moon.jpg
+  overlay_image: ../images/banner.png
   overlay_filter: 0.1 # same as adding an opacity of 0.5 to a black background
 ---
 
+# Who we are
+Vietnamese Data Science & AI Community (VNDA) is a community founded by Vietnamese professionals and students in Singapore who are interested in Data Science and Artificial Intelligence.
+Since 2022, we have been working actively to share our knowledge and connect talents in the field.
 
-## Bio
+# What we do
+## [Blog](/blog)
+We publish blog posts on the subjects of Data Science and AI.
+## [Events](/event)
+We organize seminars to share knowledge and experience of professionals in the field.
 
-I am an FRIB Theory Fellow at Argonne National Laboratory (ANL) and the Facility for Rare Isotope Beams (FRIB) at Michigan State University (MSU). My research interests cover the study of open quantum systems, many-body physics, low-energy nuclear structure and reactions, as well as many other related topics. I completed my PhD in 2014 at the University of Caen, France, while doing research at the Grand Accélérateur National d'Ions Lourds (GANIL) under the supervision of Prof. M. P&#322;oszajczak. 
+<style>
+td, th {
+   border: none!important;
+}
+th {
+    background: #f6f0f0;
+    word-wrap: break-word;
+    text-align: center;
+    font-size: 1px;
+}
+tr:nth-child(1) { 
+  background:  #f6f0f0; 
+  font-size: 40px;
+  text-align: center;
+}
+tr:nth-child(2) {
+  background: #f6f0f0;
+  font-size: 20px;
+  text-align: center;
+}
+</style>
 
 
-## Interests
+| <!-- --> | <!-- -->       <!-- --> | <!-- -->   | <!-- -->           |
+|----------|-------------------------|------------|--------------------|
+| 4        | 16                      | 4          | 100+               |
+| Months   | Core members            | Blog posts | Facebook followers |
 
+# Partnership
 
-![Research interests](../images/research_interests.png)
-
-
+<p float="left">
+  <a href="https://www.grokking.org/ "><img src="/images/about/grokking_logo.jpeg" width="200" /></a>
+</p>
 
