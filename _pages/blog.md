@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Blog"
-permalink: /blog
+permalink: /blog/
 author_profile: true
 header:
   overlay_image: ../images/banner.png
