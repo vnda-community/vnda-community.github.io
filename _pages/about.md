@@ -4,7 +4,7 @@ permalink: /
 title: "About"
 author_profile: true
 redirect_from: 
-  - /about/
+  - /about
   - /about.html
 header:
   overlay_image: ../images/banner.png
@@ -53,5 +53,6 @@ tr:nth-child(2) {
 
 <p float="left">
   <a href="https://www.grokking.org/ "><img src="/images/about/grokking_logo.jpeg" width="200" /></a>
+  <a href="https://www.linh.ai/ "><img src="/images/about/linhai_logo.jpeg" width="200" /></a>
 </p>
 

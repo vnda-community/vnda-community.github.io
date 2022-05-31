@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Events"
-permalink: /events/
+permalink: /events
 author_profile: true
 header:
   overlay_image: ../images/banner.png

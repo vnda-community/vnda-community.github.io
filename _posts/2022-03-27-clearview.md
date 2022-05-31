@@ -1,24 +1,21 @@
 ---
 title: 'Công nghệ nhận diện khuôn mặt trong chiến tranh tại Ukraine'
 date: 2022-03-27
-permalink: /posts/2022-03-27-clearview/
+permalink: /post/2022-03-27-clearview/
 header:
   overlay_image: ../images/banner.png
   overlay_filter: 0.1 # same as adding an opacity of 0.5 to a black background
 tags:
-  - news
-  - application
-  - computer vision
-  - face recognition
+  - Điểm báo
 ---
-
-Bài viết được dịch từ nguồn báo [Reuters](https://www.reuters.com/technology/exclusive-ukraine-has-started-using-clearview-ais-facial-recognition-during-war-2022-03-13/).
 
 ![Hình 1: Lực lượng Quốc phòng Ukraine tuần tra tại cứ điểm. Nguồn: Reuters](/images/2022-03-27-clearview/figure1.jpeg){:style="display:block; margin-left:auto; margin-right:auto"}
 <div style="text-align: center;">
 <em>Hình 1: Lực lượng Quốc phòng Ukraine tuần tra tại cứ điểm. Nguồn: Reuters</em>
 </div>
 <br>
+
+Bài viết được dịch từ nguồn báo [Reuters](https://www.reuters.com/technology/exclusive-ukraine-has-started-using-clearview-ais-facial-recognition-during-war-2022-03-13/).
 
 Ngày 13 tháng 3 năm 2022: Thứ 7 vừa qua, bộ quốc phòng Ukraine bắt đầu sử dụng công nghệ nhận diện khuôn mặt của Clearview AI, sau khi start-up này đề nghị giúp tiết lộ danh tính các binh sĩ Nga, chống lại tin giả và xác minh các tử sĩ trên chiến trường.
 
