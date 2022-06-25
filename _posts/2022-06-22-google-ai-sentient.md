@@ -49,12 +49,15 @@ Lemoine sau đó trình bày bằng chứng với Google rằng LaMDA có tri gi
 Robot có tri giác đã truyền cảm hứng cho rất nhiều bộ phim khoa học viễn tưởng nổi tiếng. 
 Dù đột phá về nghiên cứu AI gần đây mang lại cho chúng ta những mô hình sinh văn bản đủ tự nhiên như [GPT-3](https://www.technologyreview.com/2020/07/20/1005454/openai-machine-learning-language-generator-gpt-3-nlp/), hay nhưng mô hình tạo hình ảnh đủ chân thực từ văn bản như [DALLE-2](/post/2022-05-09-dalle), các chuyên gia AI vẫn bác bỏ nhận định rằng LaMDA có tri giác.
 
-{% twitter page.garry_marcus_tweet %}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Nonsense on Stilts. <br><br>A hot take on all this “OMG. LaMDA is Sentient” mania—and why the AI community is pretty united on this one.<a href="https://t.co/4IzUh35y9n">https://t.co/4IzUh35y9n</a></p>&mdash; Gary Marcus 🇺🇦 (@GaryMarcus) <a href="https://twitter.com/GaryMarcus/status/1536087306062352384?ref_src=twsrc%5Etfw">June 12, 2022</a></blockquote> 
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Theo [Gary Marcus](https://garymarcus.substack.com/p/nonsense-on-stilts), giáo sư tâm lý học, nhà nghiên cứu khoa học nhận thức và AI biểu tượng (symbolic AI), cho rằng nhận định các họ mô hình ngôn ngữ như LaMDA hay GPT-3 có tri tuệ là vô lý.
 Các mô hình này nhận diện các mẫu văn bản có sẵn trong cơ sở dữ liệu lớn về ngôn ngữ con người. Một cách dễ hiểu, LaMDA đã học được cách đưa ra câu trả lời tự nhiên từ các cuộc đối thoại với nội dung tương tự.
 Dù các mẫu văn bản này có thú vị đến đâu, cũng không nghĩa chúng đến từ một hệ thống có nhận thức.
 
-{% twitter page.timnit_tweet %}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My favorite comment on our (<a href="https://twitter.com/mmitchell_ai?ref_src=twsrc%5Etfw">@mmitchell_ai</a> &amp; I) Op-ed.<br><br>&quot;AI . Noun. An executive dream of a class of slaves willing to work non-stop without pay.&quot;<a href="https://t.co/JQFREWO82e">https://t.co/JQFREWO82e</a></p>&mdash; Timnit Gebru (@timnitGebru) <a href="https://twitter.com/timnitGebru/status/1537840757956124672?ref_src=twsrc%5Etfw">June 17, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Trong một bài viết gửi [The Washington Post](https://www.washingtonpost.com/opinions/2022/06/17/google-ai-ethics-sentient-lemoine-warning/), Timnit Gebru, nhà khoa học đi đầu trong nghiên cứu về đạo đức AI, và cựu trưởng nhóm Ethical AI tại Google, cũng cho rằng các mô hình ngôn ngữ hoạt động như những con vẹt (["stochastic parrot"](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)). 
 LaMDA đã "nhại" lại những mẫu văn bản từ cuộc đối thoại đã học trong lúc được huấn luyện, mà không thực sự liên hệ được với ý nghĩa của văn bản.
 
