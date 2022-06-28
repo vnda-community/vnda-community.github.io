@@ -1,5 +1,5 @@
 ---
-title: 'Liệu AI của Google có tri giác và Đạo đức AI đang được quan tâm như thế nào?'
+title: 'Trí tuệ nhân tạo “có tri giác”? - Yêu cầu về chuẩn mực đạo đức dành cho AI.'
 date: 2022-06-22
 permalink: /post/2022-06-22-google-ai-sentient/
 header:
@@ -42,7 +42,7 @@ Bạn đọc có thể xem thêm về nội dung cuộc nói chuyên giữa Lemo
 </div>
 <br>
 
-Lemoine sau đó trình bày bằng chứng với Google rằng LaMDA có tri giác. Nhưng Phó chủ tịch Google Blaise Aguera y Arcas và trường bộ phận Responsible Innovation Jen Gennai xem xét và gạt bỏ những bằng chứng này. 
+Lemoine sau đó trình bày bằng chứng với Google rằng LaMDA có tri giác. Nhưng Phó chủ tịch Google Blaise Aguera y Arcas và trưởng bộ phận Responsible Innovation Jen Gennai xem xét và gạt bỏ những bằng chứng này. 
 [Lemoine bị buộc thôi việc sau đó](https://www.bloomberg.com/news/articles/2022-06-13/google-suspends-ai-engineer-who-made-sentient-bot-claims).
 
 ## Liệu LaMDA có tri giác?
