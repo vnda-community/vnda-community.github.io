@@ -105,6 +105,8 @@ Sự thổi phồng này cũng được truyền thông hưởng ứng với nh�
 Các nhà khoa học và kỹ sư cần tập trung xây dựng các mô hình giúp con người giải quyết các vấn đề khác nhau, thay vì đưa ra tuyên bố về các siêu AI có tri giác.
 Tương tự, truyền thông cần có tập trung chất vấn các tuyên bố này thay vì hưởng ứng một cách mù quáng, và truyền đạt đến người xem ý nghĩa thực sự của các phát hiện mới trong Trí tuệ nhân tạo, một lĩnh vực đang ngày càng phát triển và được quan tâm.
 
+Còn bạn có suy nghĩ gì về các chuẩn mực đạo đức dành cho AI? Hãy cho VNDA biết ở phần comment trong post Facebook của VNDA nhé!
+
 ## Bạn có thể xem thêm
 - [Các nguyên tắc phát triển AI của Google](https://ai.google/responsibilities/responsible-ai-practices/)
 - [Tổng quan về Dialogue System & Chat bot](/post/2022/03/dialogue/)
