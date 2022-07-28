@@ -7,8 +7,6 @@ header:
   overlay_filter: 0.1 # same as adding an opacity of 0.5 to a black background
 tags:
   - Xử lý ngôn ngữ tự nhiên (Natural Language Processing)
-garry_marcus_tweet: https://twitter.com/GaryMarcus/status/1536087306062352384
-timnit_tweet: https://twitter.com/timnitGebru/status/1537840757956124672
 ---
 
 ![Hình 1: Một cảnh trong phim khoa học viễn tưởng Ex Machina](/images/2022-06-22-google-ai-sentient/ex_machina.jpeg){:style="display:block; margin-left:auto; margin-right:auto"}
