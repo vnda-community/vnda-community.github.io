@@ -10,6 +10,11 @@
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+{% if page.image %}
+  <meta property="og:image" content="{{page.image}}">
+{% else %}
+  <meta property="og:image" content="/images/logo_vnda.png">
+{% endif %}
 
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
