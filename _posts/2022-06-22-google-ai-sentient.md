@@ -5,6 +5,7 @@ permalink: /post/2022-06-22-google-ai-sentient/
 header:
   overlay_image: ../images/banner.png
   overlay_filter: 0.1 # same as adding an opacity of 0.5 to a black background
+  thumbnail: images/2022-06-22-google-ai-sentient/ex_machina.jpeg
 tags:
   - Xử lý ngôn ngữ tự nhiên (Natural Language Processing)
 ---
