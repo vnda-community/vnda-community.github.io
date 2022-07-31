@@ -5,7 +5,7 @@ permalink: /post/2022-03-27-clearview/
 header:
   overlay_image: ../images/banner.png
   overlay_filter: 0.1 # same as adding an opacity of 0.5 to a black background
-  thumbnail: images/2022-03-27-clearview/figure1.jpeg
+  thumbnail: 2022-03-27-clearview/figure1.jpeg
 tags:
   - Điểm báo
 ---
